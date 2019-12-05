@@ -5,7 +5,7 @@ This repository contains the datasets you will need to complete <a href="https:/
 
 The <a href="https://ourcodingclub.github.io/DL/challenge3.html" target="_blank">challenge page</a> contains all the information and instructions to get you started and guide you through the challenge.
 
-#### The datasets for the challenges are:
+#### The [datasets](https://github.com/ourcodingclub/CC_course_challenge3/tree/master/data) for the challenges are:
 
 + **The Isle of May long-term study (IMLOTS) seabird annual breeding success 1982-2016.** Newell, M.; Harris, M.P.; Wanless, S.; Burthe, S.; Bogdanova, M.; Gunn, C.M.; Daunt, F. (2016). Available from the <a href="https://doi.org/10.5285/02c98a4f-8e20-4c48-8167-1cd5044c4afe" target="_blank">NERC Environmental Information Data Centre</a> under an Open Government License. Contains data supplied by the Natural Environment Research Council. The static copy stored in this repository was accessed on 04-06-2019.
 
