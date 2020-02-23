@@ -1,9 +1,9 @@
 # All about seabirds
-### Challenge 3 of Coding Club's <a href="https://ourcodingclub.github.io/course_home/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
+### Challenge 3 of Coding Club's <a href="https://ourcodingclub.github.io/course/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
-This repository contains the datasets you will need to complete <a href="https://ourcodingclub.github.io/DL/challenge3.html" target="_blank">Challenge 3</a>. This challenge is associated with the <a href="https://ourcodingclub.github.io/course/mastering-modelling.html" target="_blank">Mastering Modelling</a> module of the course. You can download this zipped folder to your computer (green button in top right corner), or fork this repository if you have a GitHub account. 
+This repository contains the datasets you will need to complete <a href="https://ourcodingclub.github.io/course/mastering-modelling-challenge/index.html" target="_blank">Challenge 3</a>. This challenge is associated with the <a href="https://ourcodingclub.github.io/course/mastering-modelling/index.html" target="_blank">Mastering Modelling</a> stream of the course. You can download this zipped folder to your computer (green button in top right corner), or fork this repository if you have a GitHub account. 
 
-The <a href="https://ourcodingclub.github.io/DL/challenge3.html" target="_blank">challenge page</a> contains all the information and instructions to get you started and guide you through the challenge.
+The <a href="https://ourcodingclub.github.io/course/mastering-modelling-challenge/index.html" target="_blank">challenge page</a> contains all the information and instructions to get you started and guide you through the challenge.
 
 #### The [datasets](https://github.com/ourcodingclub/CC_course_challenge3/tree/master/data) for the challenges are:
 
